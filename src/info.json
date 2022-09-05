@@ -1,0 +1,76 @@
+{
+  "footerLinks": [
+    {
+      "title": "community",
+      "links": [
+        {
+          "text": "Lexir for Brands",
+          "to": "/lexir-for-brands"
+        },
+        {
+          "text": "Business Buyers",
+          "to": "/business-buyers"
+        },
+        {
+          "text": "Sales Affiliates",
+          "to": "/sales-affiliates"
+        }
+      ]
+    },
+    {
+      "title": "platform",
+      "links": [
+        {
+          "text": "Resources",
+          "to": "/resources"
+        },
+        {
+          "text": "Pricing",
+          "to": "/pricing"
+        },
+        {
+          "text": "Get Started",
+          "to": "/get-started"
+        }
+      ]
+    },
+    {
+      "title": "company",
+      "links": [
+        {
+          "text": "About",
+          "to": "/about"
+        },
+        {
+          "text": "Contact",
+          "to": "/contact"
+        },
+        {
+          "text": "Legal",
+          "to": "/legal"
+        }
+      ]
+    },
+    {
+      "title": "lexir shop",
+      "links": [
+        {
+          "text": "Brands",
+          "to": "/brands"
+        },
+        {
+          "text": "Spirits",
+          "to": "/spirits"
+        },
+        {
+          "text": "Wine",
+          "to": "/wine"
+        },
+        {
+          "text": "Blog",
+          "to": "/blog"
+        }
+      ]
+    }
+  ]
+}

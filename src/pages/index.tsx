@@ -8,6 +8,7 @@ export default function Home() {
         <title>Lexir Frontend Assessment!</title>
         <meta name="description" content="Lexir Frontend Assessment!" />
         <link rel="icon" href="/favicon.ico" />
+        <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'></link>
       </Head>
 
       <main className={styles.main}>
