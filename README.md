@@ -1,10 +1,11 @@
 
-HEADER(fixed)
+HEADER
 
 NAVPANE MAIN
 
-FOOTER(sticky bottom)
+FOOTER
 
+---------------------------------------------------------
 
 Implemented
 
@@ -16,8 +17,8 @@ Implemented
 
 -MAIN
 
-Dynamic activity(Edit button)
+    Dynamic activity(Edit button)
   
-  Open files using file input
+    Open files using file input
 
 -Reusable code and components
