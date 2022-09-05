@@ -15,7 +15,7 @@ Implemented
 
 -Footer with navigation links
 
--MAIN
+-Main
 
    - Dynamic activity(Edit button)
   
